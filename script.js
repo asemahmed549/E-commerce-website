@@ -10,8 +10,8 @@ const products = [
     title: "Air Force",
     price: 119,
     colors: [
-      { code: "black", img: "img/air.png" },
-      { code: "darkblue", img: "img/air2.png" },
+      { code: "black", img: "./img/air.png" },
+      { code: "darkblue", img: "./img/air2.png" },
     ],
   },
   {
@@ -19,8 +19,8 @@ const products = [
     title: "Air Jordan",
     price: 149,
     colors: [
-      { code: "lightgray", img: "img/jordan.png" },
-      { code: "green", img: "img/jordan2.png" },
+      { code: "lightgray", img: "./img/jordan.png" },
+      { code: "green", img: "./img/jordan2.png" },
     ],
   },
   {
@@ -28,8 +28,8 @@ const products = [
     title: "Air Blazer",
     price: 109,
     colors: [
-      { code: "lightgray", img: "img/blazer.png" },
-      { code: "green", img: "img/blazer2.png" },
+      { code: "lightgray", img: "./img/blazer.png" },
+      { code: "green", img: "./img/blazer2.png" },
     ],
   },
   {
@@ -37,8 +37,8 @@ const products = [
     title: "Crater",
     price: 129,
     colors: [
-      { code: "black", img: "img/crater.png" },
-      { code: "lightgray", img: "img/crater2.png" },
+      { code: "black", img: "./img/crater.png" },
+      { code: "lightgray", img: "./img/crater2.png" },
     ],
   },
   {
@@ -46,8 +46,8 @@ const products = [
     title: "Hippie",
     price: 99,
     colors: [
-      { code: "gray", img: "img/hippie.png" },
-      { code: "black", img: "img/hippie2.png" },
+      { code: "gray", img: "./img/hippie.png" },
+      { code: "black", img: "./img/hippie2.png" },
     ],
   },
 ];
